@@ -1,2 +1,8 @@
-# CUSTOMER-SEGMENTATION
-Customer segmentation project using KMeans clustering to group customers based on income and spending behavior. Includes data analysis, feature scaling, and interactive visualization using Streamlit and Plotly. Helps identify key customer segments for targeted business strategies.
+# 🧠 Customer Segmentation Project
+
+## Overview
+Customer segmentation using KMeans clustering and Streamlit dashboard.
+
+## Run
+pip install -r requirements.txt
+streamlit run app.py
