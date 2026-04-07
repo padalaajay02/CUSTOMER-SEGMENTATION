@@ -1,0 +1,101 @@
+CustomerID,Annual Income (k$),Spending Score (1-100),Cluster,Customer Type
+1,129,44,4,Average Customers
+2,142,58,4,Average Customers
+3,45,76,1,Low Income - High Spending
+4,57,78,4,Average Customers
+5,50,86,4,Average Customers
+6,126,5,2,High Income - Low Spending
+7,109,13,2,High Income - Low Spending
+8,79,91,4,Average Customers
+9,40,70,1,Low Income - High Spending
+10,92,59,4,Average Customers
+11,67,31,4,Average Customers
+12,70,13,4,Average Customers
+13,24,88,1,Low Income - High Spending
+14,91,81,4,Average Customers
+15,98,79,4,Average Customers
+16,150,79,0,High Income - High Spending
+17,74,25,4,Average Customers
+18,59,86,4,Average Customers
+19,120,97,0,High Income - High Spending
+20,94,65,4,Average Customers
+21,20,14,3,Low Income - Low Spending
+22,32,7,3,Low Income - Low Spending
+23,62,94,4,Average Customers
+24,145,83,0,High Income - High Spending
+25,149,33,2,High Income - Low Spending
+26,37,100,1,Low Income - High Spending
+27,145,80,0,High Income - High Spending
+28,135,69,0,High Income - High Spending
+29,89,3,4,Average Customers
+30,48,11,3,Low Income - Low Spending
+31,34,74,1,Low Income - High Spending
+32,106,13,2,High Income - Low Spending
+33,113,100,0,High Income - High Spending
+34,21,84,1,Low Income - High Spending
+35,107,58,4,Average Customers
+36,68,77,4,Average Customers
+37,100,59,4,Average Customers
+38,149,14,2,High Income - Low Spending
+39,124,28,2,High Income - Low Spending
+40,131,39,2,High Income - Low Spending
+41,137,58,4,Average Customers
+42,25,74,1,Low Income - High Spending
+43,106,83,0,High Income - High Spending
+44,22,1,3,Low Income - Low Spending
+45,109,10,2,High Income - Low Spending
+46,75,1,4,Average Customers
+47,34,32,3,Low Income - Low Spending
+48,106,97,0,High Income - High Spending
+49,43,81,1,Low Income - High Spending
+50,136,69,0,High Income - High Spending
+51,76,12,4,Average Customers
+52,55,28,4,Average Customers
+53,97,92,4,Average Customers
+54,101,94,0,High Income - High Spending
+55,113,51,4,Average Customers
+56,99,1,4,Average Customers
+57,121,15,2,High Income - Low Spending
+58,91,43,4,Average Customers
+59,146,70,0,High Income - High Spending
+60,109,94,0,High Income - High Spending
+61,59,14,4,Average Customers
+62,140,11,2,High Income - Low Spending
+63,141,60,4,Average Customers
+64,122,58,4,Average Customers
+65,65,43,4,Average Customers
+66,76,56,4,Average Customers
+67,140,91,0,High Income - High Spending
+68,74,28,4,Average Customers
+69,40,1,3,Low Income - Low Spending
+70,89,54,4,Average Customers
+71,78,63,4,Average Customers
+72,76,58,4,Average Customers
+73,55,70,4,Average Customers
+74,87,56,4,Average Customers
+75,81,100,4,Average Customers
+76,26,39,3,Low Income - Low Spending
+77,28,34,3,Low Income - Low Spending
+78,79,40,4,Average Customers
+79,111,85,0,High Income - High Spending
+80,99,32,4,Average Customers
+81,38,65,1,Low Income - High Spending
+82,95,37,4,Average Customers
+83,49,38,3,Low Income - Low Spending
+84,99,31,4,Average Customers
+85,147,63,0,High Income - High Spending
+86,69,47,4,Average Customers
+87,134,67,0,High Income - High Spending
+88,70,84,4,Average Customers
+89,40,77,1,Low Income - High Spending
+90,112,27,2,High Income - Low Spending
+91,96,54,4,Average Customers
+92,104,69,0,High Income - High Spending
+93,99,46,4,Average Customers
+94,39,14,3,Low Income - Low Spending
+95,96,44,4,Average Customers
+96,31,54,4,Average Customers
+97,115,37,2,High Income - Low Spending
+98,127,61,0,High Income - High Spending
+99,84,95,4,Average Customers
+100,45,42,4,Average Customers
